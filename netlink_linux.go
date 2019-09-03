@@ -1,6 +1,6 @@
 package netlink
 
-import "github.com/vishvananda/netlink/nl"
+import "github.com/ZverevM/netlink_legacy/nl"
 
 // Family type definitions
 const (
